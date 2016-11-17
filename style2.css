@@ -1,0 +1,17 @@
+body {
+    font-family: "Times New Roman", Serif;
+}
+h1 {
+	text-shadow: 2px 2px 4px blue;
+	text-align: center;
+}
+h2 {
+	text-shadow: 2px 2px 4px yellow;
+	text-align: center;
+}
+ul {
+	list-style-image: url('0458.png');
+}
+p {
+	letter-spacing: 1px;
+}
