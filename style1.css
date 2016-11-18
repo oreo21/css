@@ -13,5 +13,23 @@ h3 {
     font-style: italic;
 }
 p {
-	text-indent: 40px;
+    text-indent: 40px;
+}
+.extreme {
+    outline: blue ridge thick;
+}
+#head1 {
+}
+.navzone {
+    border: 5px dotted red;
+}
+#tehlulz {
+}
+.content {
+    position: relative;
+    width: 400px;
+    height: 250px;
+    border: thick double #8AC007;
+}
+.prose {
 }

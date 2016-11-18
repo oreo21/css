@@ -15,3 +15,37 @@ ul {
 p {
 	letter-spacing: 1px;
 }
+a {
+    text-decoration: none;
+}
+.extreme {
+}
+#head1 {
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #d0f0f6;
+    text-align: left;
+    padding: 8px;
+}
+.navzone {
+}
+#tehlulz {
+    background-color: #01FF70;
+    width: 300px;
+    border: 25px solid #001f3f;
+    padding: 25px;
+    margin: 25px;
+}
+.content {
+	font-family: Arial, Verdana, sans-serif;
+	border: 5px solid #ee3e80;
+	padding: 20px;
+	width: 275px;
+	border-radius: 10px;
+}
+.prose {
+    background: #ff9999;
+    padding: 20px;
+}
