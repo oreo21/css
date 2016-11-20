@@ -1,0 +1,30 @@
+body {
+
+  background: linear-gradient(90deg, rgba(45,125,210,0), rgba(121, 172, 226, 1), rgba(45,125,210,1), rgba(29, 80, 134, 1));
+  font-family: Helvetica, sans-serif;
+  width: 70%;
+  margin: 20px auto;
+}
+p::first-letter {
+  font-weight: bold;
+  font-size: 20px;
+}
+h1, h2, h3{
+  text-shadow: 2px 2px blue;
+}
+ul {
+	list-style-image: url('0458.png');
+}
+ol {
+	list-style-image: url('0458.png');
+}
+li:hover {
+  background-color: rgb(148, 156, 204);
+}
+img {
+  width: 600px;
+  height: 300px;
+  float: right;
+  padding: 20px 20px;
+  border-radius: 100px;
+}
